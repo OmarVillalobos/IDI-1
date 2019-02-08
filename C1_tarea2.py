@@ -9,13 +9,7 @@ Este es un archivo temporal
 #2. Desarrollar una función en Python (no es necesario que sea una clase) que reciba un entero n y 
 #determine si es primo o no. Usando la función genere código que imprima los primos 20 números primos.
 import random
-#class Suma(object):
-#   def  __init__(self, entero: int):
-#        self.entero = entero
-    
-#    def suma_mayor_menor(self):
-        
-    
+   
 def suma_mayor_menor(entero: int):
     lista = []
     for i in range(entero):
